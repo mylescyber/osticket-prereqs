@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create Virtual Machine in Azure
 - Connect Virtual Machine with Remote Desktop
-- Install/ Enable IIS in Windows
+- Install / Enable IIS in Windows
 - Install Web Platform Installer
 - Install Latest Version of osTicket
 
@@ -28,26 +28,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs. When creating the VM, allow it to
 create a new Virtual Network (Vnet). Connect to your Virtual Machine with Remote Desktop.
-<p>
-<img src=(https://user-images.githubusercontent.com/59034949/211161231-8be40d54-96ba-4851-bba1-90ba318c3add.png)/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![iis](https://user-images.githubusercontent.com/59034949/211161231-8be40d54-96ba-4851-bba1-90ba318c3add.png)
+
+
+
+Install / Enable IIS in Windows and Install Web Platform Installer. After installation, add MySQL 5.5 and all simple x86 versions of PHP up to 7.3. (Fix any failures if required.) 
+
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![osticket](https://user-images.githubusercontent.com/59034949/211161262-18b79251-23bf-4a02-a6ff-ef363fbf87ae.png)
+
+
+Install the latest version of osTicket.
 </p>
 <br />
